@@ -126,7 +126,6 @@ vendor/lib64/com.qti.feature2.tintless.so
 vendor/lib64/hw/camera.qcom.so
 vendor/lib64/hw/com.qti.chi.override.so
 vendor/lib64/libHalSuperSensorServer.so
-vendor/lib64/libI420colorconvert.so
 vendor/lib64/libMIAIHDRhvx_interface.so
 vendor/lib64/libSNPE.so
 vendor/lib64/libSuperSensor.so
