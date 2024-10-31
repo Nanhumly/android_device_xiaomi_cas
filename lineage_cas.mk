@@ -23,6 +23,5 @@ PRODUCT_MODEL := M2007J1SC
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="cas-user 13 RKQ1.211001.001 V816.0.4.0.TJJCNXM release-keys"
-
-BUILD_FINGERPRINT := Xiaomi/cas/cas:13/RKQ1.211001.001/V816.0.4.0.TJJCNXM:user/release-keys
+    BuildDesc="cas-user 13 RKQ1.211001.001 V816.0.4.0.TJJCNXM release-keys"
+    BuildFingerprint=Xiaomi/cas/cas:13/RKQ1.211001.001/V816.0.4.0.TJJCNXM:user/release-keys
